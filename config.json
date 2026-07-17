@@ -1,0 +1,12 @@
+{
+  "group_settings": {},
+  "humanize_settings": {
+    "min_delay": 0.5,
+    "max_delay": 4.5,
+    "random_typing_delay": true
+  },
+  "chat_history": {
+    "retention_hours": 24,
+    "enabled": true
+  }
+}

@@ -1,0 +1,8 @@
+name: astrbot_plugin_qq_humanize
+description: QQ 个人号拟人化插件，提供消息延迟、群聊权限管理、聊天记录AI总结等功能
+version: 1.3.2
+author: user
+display_name: QQ拟人化管理
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.5.7"
